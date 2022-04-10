@@ -35,6 +35,7 @@ As seguintes ferramentas foram usadas na construção do projeto:
 -   [ESLint](https://eslint.org/)
 -   [Prettier](https://prettier.io/)
 -   [Axios](https://axios-http.com/ptbr/docs/intro)
+-   [Husky](https://typicode.github.io/husky/#/)
 
 ### Autora
 
