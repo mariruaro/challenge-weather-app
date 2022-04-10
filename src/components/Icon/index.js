@@ -9,6 +9,7 @@ import {
 	FontAwesome5,
 	EvilIcons,
 	Entypo,
+	MaterialCommunityIcons
 } from '@expo/vector-icons';
 import PropTypes from 'prop-types';
 
