@@ -49,5 +49,5 @@
 			"pre-commit": "lint-staged && echo All Doned"
 		}
 	},
-  "private": true
+	"private": true
 }

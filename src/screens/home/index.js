@@ -16,6 +16,8 @@ import { getIconWeather } from '../../lib/utils/functions';
 import Colors from '../../lib/constants/colors';
 import styles from './styles';
 
+const test = '';
+
 export default function App() {
 	const dispatch = useDispatch();
 	const loading = useSelector(weatherSelectors.getLoading);
