@@ -8,7 +8,7 @@ Desenvolva um aplicativo que consuma a localização atual do usuário e exiba n
 
 ## Layout
 
-<img src="https://i.ibb.co/xGGn443/Simulator-Screen-Shot-i-Phone-12-2022-04-10-at-17-29-08.png" alt="app" >
+<img src="https://i.ibb.co/xGGn443/Simulator-Screen-Shot-i-Phone-12-2022-04-10-at-17-29-08.png" alt="app" height="400">
 
 ## Pré-requisitos
 
