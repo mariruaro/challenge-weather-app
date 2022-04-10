@@ -16,7 +16,7 @@ import { getIconWeather } from '../../lib/utils/functions';
 import Colors from '../../lib/constants/colors';
 import styles from './styles';
 
-const test = '   ';
+const test = '  ';
 
 export default function App() {
 	const dispatch = useDispatch();
